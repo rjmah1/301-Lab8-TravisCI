@@ -37,7 +37,23 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit.CityListTest">
+    <configuration name="CityListTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simpleparadox.listycity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.simpleparadox.listycity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.simpleparadox.listycity.CityListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -96,6 +112,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CityListTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -109,5 +130,23 @@
       <updated>1604014445183</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1815" height="266" key="GridCell.Tab.0.bottom" timestamp="1604018487665">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1815" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.208.1920.1040/2560.191.1920.1040@0.0.2560.1400" timestamp="1604018487665" />
+    <state width="1815" height="266" key="GridCell.Tab.0.center" timestamp="1604018487665">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1815" height="266" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.208.1920.1040/2560.191.1920.1040@0.0.2560.1400" timestamp="1604018487665" />
+    <state width="1815" height="266" key="GridCell.Tab.0.left" timestamp="1604018487664">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1815" height="266" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.208.1920.1040/2560.191.1920.1040@0.0.2560.1400" timestamp="1604018487664" />
+    <state width="1815" height="266" key="GridCell.Tab.0.right" timestamp="1604018487665">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1815" height="266" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.208.1920.1040/2560.191.1920.1040@0.0.2560.1400" timestamp="1604018487665" />
   </component>
 </project>
