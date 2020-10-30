@@ -84,6 +84,6 @@ public class CityList {
      *      The gotten city
      */
     public City getCity(int pos) {
-        return null;
+        return cities.get(pos);
     }
 }
