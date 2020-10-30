@@ -77,4 +77,13 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+
+    /**
+     * Return a city from city list by position
+     * @return
+     *      The gotten city
+     */
+    public City getCity(int pos) {
+        return null;
+    }
 }
